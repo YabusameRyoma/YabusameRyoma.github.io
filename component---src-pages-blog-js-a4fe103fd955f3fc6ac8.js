@@ -1,0 +1,2 @@
+(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[7],{223:function(e,t,n){"use strict";n.r(t);var a=n(7294),l=n(5444);t.default=function(e){return a.createElement("div",null,a.createElement("h1",null,"ブログページ"),e.data.allMarkdownRemark.edges.map((function(e,t){return a.createElement("div",{key:t},a.createElement(l.Link,{to:e.node.fields.slug},a.createElement("h2",null,e.node.frontmatter.title)),a.createElement("p",null,e.node.frontmatter.date))})))}}}]);
+//# sourceMappingURL=component---src-pages-blog-js-a4fe103fd955f3fc6ac8.js.map
